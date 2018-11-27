@@ -1,22 +1,21 @@
-display screen notch
-camera picture video recording selfie potrait
+display screen notch  pixels touchscreen resolution 
+camera picture video recording selfie potrait rear flash megapixel front 
 music song speaker sound
 battery charge power lithium-ion standbytime
 money budget 
 phone device model
 design look 
 color 
-resolution
 ram
 glass temper
 os android nougat oxygen
-processor cpu snapdragon
+processor cpu snapdragon hardware quadcore qualcomm
 heat warm 
 game gpu
-sensor navigation finegerprint face-reconigation voice-reconigation
-network connectivity 4g lte volte wifi hotspot usb jack gps bluetooth signal location 
-charger c-type dash usb turbo
-harddisk memory storage rom
+sensor navigation finegerprint face-reconigation voice-reconigation compass magnetometer proximity accelerometer ambient gyroscope barometer temperature
+network connectivity lte volte wifi hotspot usb jack gps bluetooth signal location standards b/g nfc infrared sim fmgsm cdma gsm 3g 4g bands
+charger c-type dash usb turbo OTG	Headphones 3.5mm
+harddisk memory storage rom internal expandable microsd gb tb mb
 launcher
 warranty guarantee
 assisstant siri google 
