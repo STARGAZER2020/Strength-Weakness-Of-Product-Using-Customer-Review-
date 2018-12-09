@@ -20,7 +20,7 @@ launche["launcher"]
 warranty=["warranty", "guarantee"]
 assisstant=["assisstant", "siri", "google"] 
 notification=["notification", "alert", "gesture"]
-dict={("display":0),("camera":0),("music":0),("battery":0),("notification":0),("warranty":0),("harddisk":0),("charger":0),("network":0),("sensor":0),("game":0),("heat":0),("processor":0),("os":0),("glass":0),("ram":0),("color":0),("design":0),("phone":0),("money":0)}
+dict={"display":0,"camera":0,"music":0,"battery":0,"notification":0,"warranty":0,"harddisk":0,"charger":0,"network":0,"sensor":0,"game":0,"heat":0,"processor":0,"os":0,"glass":0,"ram":0,"color":0,"design":0,"phone":0,"money":0}
 for token in tokens:
    for token in display:
         dict["display"]+=1;
