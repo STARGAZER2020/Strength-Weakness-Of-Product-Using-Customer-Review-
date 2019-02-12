@@ -7,3 +7,5 @@ Nowadays many people rely on e-commerce websites and app for buying products and
 *In this project, we have extracted the customer's review from Amazon and summarise it in good and bad features about the product so whenever we have to purchase a product we can just use results of this project instead of going through all the reviews one by one which is a time-consuming process. Some reviews contain grammatical and spelling mistakes that can lead to the inaccurate result that why we have preprocessed all the reviews to make it understandable and can give us the precise result.*
 
 ![](https://github.com/STARGAZER2020/Sentiment-analysis/blob/master/phone_review.png)
+![](https://github.com/STARGAZER2020/Sentiment-analysis/blob/master/Diagram.jpeg)
+
