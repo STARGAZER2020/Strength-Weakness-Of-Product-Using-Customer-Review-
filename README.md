@@ -1,4 +1,4 @@
-#INTRODUCTION#
+# INTRODUCTION 
 
 Nowadays many people rely on e-commerce websites and app for buying products and services from the vendors over the internet. Online shopping sites become trendy and most of us regularly use these sites for comparing the same product on different sites and purchase according to price, feedbacks, specifications, delivery time and service provided by selling company. E-commerce is the fastest emerging business and which has billions of user base and it is increasing exponentially every year.
 Most of us focused on customers reviews and comments, feedbacks helps the individual to make their mind to purchase a particular product. The customer review is a review of a product or service made by a customer who has purchased or had experience with the product.It shows the strength and weakness of the product's features. Consideration of review is important for customer's benefit because sometimes the quality and delivery of the product is uneven. But there’s is an ample amount of review the customers can’t go through all of them therefore unable to summarise the information regarding the features of the product.
