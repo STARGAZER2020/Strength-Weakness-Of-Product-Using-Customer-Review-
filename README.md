@@ -1,4 +1,4 @@
-# INTRODUCTION 
+# Strength-Weakness Of Product Using Customer Review​
 
 Nowadays many people rely on e-commerce websites and app for buying products and services from the vendors over the internet. Online shopping sites become trendy and most of us regularly use these sites for comparing the same product on different sites and purchase according to price, feedbacks, specifications, delivery time and service provided by selling company. E-commerce is the fastest emerging business and which has billions of user base and it is increasing exponentially every year.
 
